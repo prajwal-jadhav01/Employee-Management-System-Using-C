@@ -1,2 +1,2 @@
-# Employee-Management-System-Using-CPP
-Employee Management System In CPP Using Concepts Of Data Structures.
+# Employee-Management-System-Using-C
+Employee Management System In C Using Concepts Of Data Structures.
